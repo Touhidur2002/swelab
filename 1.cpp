@@ -5,6 +5,9 @@ int main ()
     int arr[]={5,10,15,20,25,30};
     int n=6;
     float sum;
+    
+    
+    //hsdfgduws ewfhgj
     float avg;
     for(int i=0;i<n;i++)
     {
